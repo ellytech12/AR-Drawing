@@ -1,0 +1,47 @@
+{
+  "ads": {
+   
+
+     "ShowAds": true,
+     "ClickCount": 1,
+     "ShowLoadingAds": true,
+
+    "AdmobInterstitial": "",
+    "AdmobBanner":"",
+    "AdmobNative":"",
+
+    
+
+    
+    
+    "FanBanner": "IMG_16_9_APP_INSTALL#1118547216534351_1118551016533971",
+    "FanNative": "IMG_16_9_APP_INSTALL#1118547216534351_1118555533200186",
+    "FanInterstitial": "IMG_16_9_APP_INSTALL#1118547216534351_1118553073200432",
+
+    
+    "MaxBanner": "",
+    "MaxNative": "",
+    "MaxInterstitial": "",
+   
+   
+    "IronAppKey": "",
+    "IronBanner": "DefaultBanner",
+    "IronInterstitial": "DefaultInterstitial",
+    
+
+
+   
+
+    
+    "priorityInterstitial": "facebook",
+    "PriorityBanner": "facebook",
+    "PriorityNative": "facebook"
+    
+   
+    
+   
+    
+    
+    
+  }
+}
